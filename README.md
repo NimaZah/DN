@@ -9,7 +9,7 @@ The use of graphics tablets for administering handwriting tests has shown promis
 
 The goal of the my model building in this experiement is to demonstrate that handwriting analysis provides a novel approach of describing the symptoms of Alzheimer's disease.
 
-## Experiment with algorithms.
+## Experiment with algorithms
 
 I performed experiments with decision tree, tandom forest, Multi-layer Perceptron, Support Vector Machine, KNN, and Gaussian Naive Bayes to validate a feature set that can discriminate between AD patients and healthy people. The results of the experiment show that nearly all the classifiers performed well (77.51%), and the variance of 1.16%.
 
